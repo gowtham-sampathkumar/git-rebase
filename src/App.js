@@ -1,7 +1,9 @@
+import { LandingPage } from "./pages";
+
 const App = () => {
   return (
     <>
-      <p>Root component of this project.</p>
+      <LandingPage />
     </>
   )
 }
